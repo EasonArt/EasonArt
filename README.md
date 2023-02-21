@@ -9,7 +9,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/EasonArt&right_color=red" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonArt&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EasonArt&layout=compact&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EasonArt&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=jokerxyc&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=336128008&theme=dark)
