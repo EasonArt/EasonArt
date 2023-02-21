@@ -13,4 +13,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EasonArt&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=EasonArt&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
-![](https://activity-graph.herokuapp.com/graph?username=EasonArt&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=wangzirui32&theme=github)
